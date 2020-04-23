@@ -1,0 +1,1 @@
+TradeProcessor which Process the Incoming Trade to a Store in DB.
